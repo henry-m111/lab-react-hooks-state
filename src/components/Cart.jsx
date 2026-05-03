@@ -13,4 +13,4 @@ const Cart = ({ cart }) => {
   )
 }
 
-export default cart
+export default Cart
